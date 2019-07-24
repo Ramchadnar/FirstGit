@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10307" started-at="2019-07-19T05:08:13Z" finished-at="2019-07-19T05:08:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10307" started-at="2019-07-19T05:08:13Z" finished-at="2019-07-19T05:08:23Z">
+      <class name="gitTest.GitTest">
+        <test-method status="PASS" signature="data()[pri:0, instance:gitTest.GitTest@7cf10a6f]" name="data" duration-ms="10270" started-at="2019-07-19T10:38:13Z" finished-at="2019-07-19T10:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+      </class> <!-- gitTest.GitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
